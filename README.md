@@ -15,7 +15,7 @@ Aparte de los requerimientos solicitados incluye algunos adicionales como:
 - [Laravel 7.3+](https://github.com/laravel/framework)
 
 ## Demo
-- [Demo Application](c63c13aefc4a.ngrok.io) tunnel available for 8 hours.
+- [Demo Application](http://c63c13aefc4a.ngrok.io) tunnel available for 8 hours.
 
 ## Installing Intelcost
 
